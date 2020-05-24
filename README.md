@@ -1,2 +1,2 @@
 # Introduction-to-CSS3-Michigan
-These are weekly projects of the course Introduction to CSS3 on Coursera
+This is the project of the course. The html files belong to Colleen Van, instructor of this course.
